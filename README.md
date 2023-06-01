@@ -12,6 +12,8 @@ Install sqlite driver
 
 Run these commands below:
 
+	composer install
+	
 	cp .env.example .env
 
 	php artisan key:generate
