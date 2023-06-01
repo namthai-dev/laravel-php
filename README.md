@@ -55,3 +55,7 @@ Migration refresh
 Migration refresh and create dummy data
 
 	php artisan migrate:refresh --seed
+
+Create a controller
+
+	php artisan make:controller ListingController
