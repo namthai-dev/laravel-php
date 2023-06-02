@@ -71,3 +71,7 @@ Publish package
 Link storage to public folder
 
 	php artisan storage:link
+
+Open Laravel Tinker
+
+	php artisan tinker
