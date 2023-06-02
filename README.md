@@ -63,3 +63,7 @@ Create a controller
 Add clockwork
 
 	composer require itsgoingd/clockwork
+
+Publish package
+
+	php artisan vendor:publish          
