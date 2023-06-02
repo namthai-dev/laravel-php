@@ -59,3 +59,7 @@ Migration refresh and create dummy data
 Create a controller
 
 	php artisan make:controller ListingController
+
+Add clockwork
+
+	composer require itsgoingd/clockwork
